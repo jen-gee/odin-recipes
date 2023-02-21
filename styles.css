@@ -1,0 +1,45 @@
+/* The properties you need to add to each element are:
+
+div: a red background, white text, a font size of 32px, center aligned, and bold
+p: a green background, white text, and a font size of 18px
+button: an orange background and a font size of 18px */
+
+body {
+    font-family: Tahoma, sans-serif;
+}
+
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+p {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+
+button {
+    background-color: orange;
+    font-size: 18px;
+}
+
+a {
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.odd {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 24px;
+}
